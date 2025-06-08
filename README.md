@@ -1,40 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+## Airbnb Clone: Mastering Advanced TypeScript in React
+This project is part of the ALX React Pro Dev Curriculum and serves as a milestone for mastering advanced TypeScript concepts in a React and Next.js environment. The application showcases best practices in component-based architecture, TypeScript typing, shared layouts, and modular UI design using TailwindCSS.
 
-## Getting Started
+## 🚀 Project Name
+Airbnb clone
 
-First, run the development server:
+## 📚 Project Description
+The Airbnb is a demo web application built using Next.js, TypeScript, and TailwindCSS, designed to demonstrate mastery of reusable layouts, advanced TypeScript interfaces, component composition, and clean UI integration.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+It features a shared layout (header and footer), custom button components, and a structured file organization to promote scalability and reusability across the app.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧩 Features
+✅ application of header
+✅  adding hero section and background image and text
+✅ Reusable Header and Footer components
+✅ Custom Button component with configurable styles
+✅ Shared Layout using children props
+✅ TypeScript interfaces for component props
+✅ Styled with TailwindCSS
+✅ Setting up  landing page with Imperative routing using { useRouter }
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
+Next.js
+TypeScript
+Tailwind CSS
+React
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## 📌 Milestone Objectives Covered
+Implement responsive web design principles using Tailwind CSS
+Create reusable React components for layout (Header, Footer, Layout)
+Work with TypeScript interfaces for type safety
+Structure a Next.js application with proper component organization
+Render dynamic data from an array of objects
+Implement filtering functionality for property listings
+Practice best practices in component composition and styling
+Learn to break down UI mockups into logical components
+Clean, maintainable, and scalable code structure
